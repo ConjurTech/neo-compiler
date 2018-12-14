@@ -29,8 +29,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Mono.Cecil" Version="0.10.0" />
-    <PackageReference Include="Neo.VM" Version="2.3.0" />
+    <PackageReference Include="Mono.Cecil" Version="0.10.1" />
+    <PackageReference Include="Neo.VM" Version="2.3.3.1" />
+    <PackageReference Include="SharpZipLib.NETStandard" Version="1.0.7" />
   </ItemGroup>
 
 </Project>
